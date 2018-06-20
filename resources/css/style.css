@@ -1,3 +1,23 @@
 html{
-  
+  font-size: 18px;
+  font-family: helvetica, sans-serif;
+  line-height: 1.4;
+
+}
+
+.mainbanner{
+  background-image: url("../images/glasses-bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 31rem;
+}
+
+.container{
+  max-width: 53.3rem;
+  margin: auto;
+}
+
+header{
+  background-color: cadetblue;
 }
